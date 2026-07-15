@@ -17,7 +17,7 @@ I'm an **Informatics Engineering** student from **Manado, North Sulawesi, Indone
 - 🎓 Studying **Informatics Engineering** in North Sulawesi
 - 🌐 Interested in **web development** and **software systems**
 - 🏛️ Experienced working on **government digital systems** (Regional Transportation Agency)
-- 🌱 Currently sharpening my skills in **Java**, **JavaScript**, and **C**
+- 🌱 Currently sharpening my skills in **Java**, **JavaScript**, **Python**, **Dart**, **Kotlin** and **C**
 - 🎮 When I'm not coding, I'm playing **Minecraft Java Edition**
 - 📍 Based in **Manado, North Sulawesi, Indonesia**
 
